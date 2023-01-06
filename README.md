@@ -1,6 +1,6 @@
-# Prisma-Cloud-UI
-# Mindmaps of Prisma Cloud UI
-# Mind maps of the UI are great resource in navigating through the UI quickly to find the desired menu
+
+# Mind maps of the UI are a great resource in navigating through the UI quickly to find the desired menu option
+# Mind maps are in the XMind format
 #
 # Caveats:
 # Menu items are not exhaustive or complete
